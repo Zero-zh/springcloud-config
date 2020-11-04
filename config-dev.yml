@@ -1,1 +1,2 @@
-This is config-dev file.
+config:
+  info: "This is github config version = 1"
